@@ -2404,3 +2404,555 @@ UnknownFunction []
 [2023.10.04-18.04.33:978][414]LogSavePackage: Moving '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/K0PZLL6Z04BQPS04GRSCVQ_Auto66E35B3D84FC1BE69CD5349ACEAA4DBF7.tmp' to '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/5J/K0PZLL6Z04BQPS04GRSCVQ_Auto6.uasset'
 [2023.10.04-18.04.33:980][414]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.056
 [2023.10.04-18.04.33:980][414]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.056
+[2023.10.04-18.14.35:341][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.10.04-18.14.35:346][454]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/SZ/D1AHM62WL9TXSNPYQDXQMZ_Auto7
+[2023.10.04-18.14.35:347][454]LogSavePackage: Moving '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/D1AHM62WL9TXSNPYQDXQMZ_Auto78B7E586D41D282CB083EFB8028C57DF1.tmp' to '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/SZ/D1AHM62WL9TXSNPYQDXQMZ_Auto7.uasset'
+[2023.10.04-18.14.35:348][454]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.028
+[2023.10.04-18.14.35:348][454]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.028
+[2023.10.04-18.15.01:030][776]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.10.04-18.15.01:040][776]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.10.04-18.15.01:048][776]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.10.04-18.15.01:063][777]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.10.04-18.15.03:983][936]LogContentBrowser: Attempting asset rename: NewBlueprint -> Elevator
+[2023.10.04-18.15.03:994][936]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.10.04-18.15.07:776][140]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Elevator.Elevator
+[2023.10.04-18.15.07:777][140]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-18.15.07:777][140]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.04-18.15.07:977][140]LogViewport: Scene viewport resized to 1141x691, mode Windowed.
+[2023.10.04-18.15.09:952][311]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.10.04-18.15.09:952][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.04-18.15.11:047][386]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.10.04-18.15.11:047][386]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.10.04-18.15.11:047][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.04-18.15.19:794][197]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-18.23.59:821][372]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-18.23.59:975][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Elevator" FILE="../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Content/Elevator.uasset" SILENT=true
+[2023.10.04-18.23.59:987][372]LogSavePackage: Moving output files for package: /Game/Elevator
+[2023.10.04-18.23.59:987][372]LogSavePackage: Moving '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/ElevatorE30036384A880DFA845FA9A190AE79CB.tmp' to '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Content/Elevator.uasset'
+[2023.10.04-18.24.00:002][372]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 1.80 sec)
+[2023.10.04-18.24.00:003][372]AssetCheck: New page: Asset Save: Elevator
+[2023.10.04-18.24.00:004][372]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Elevator.Elevator
+[2023.10.04-18.24.00:653][443]BlueprintLog: New page: Compile Elevator
+[2023.10.04-18.24.00:721][443]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.10.04-18.24.01:442][509]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-18.24.01:618][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Elevator" FILE="../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Content/Elevator.uasset" SILENT=true
+[2023.10.04-18.24.01:631][509]LogSavePackage: Moving output files for package: /Game/Elevator
+[2023.10.04-18.24.01:632][509]LogSavePackage: Moving '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/Elevator14C01E9D4EC7FB87ABC763BB8CA76DDE.tmp' to '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Content/Elevator.uasset'
+[2023.10.04-18.24.01:642][509]LogFileHelpers: InternalPromptForCheckoutAndSave took 199 ms (total: 2.00 sec)
+[2023.10.04-18.24.01:643][509]AssetCheck: New page: Asset Save: Elevator
+[2023.10.04-18.24.01:643][509]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Elevator.Elevator
+[2023.10.04-18.24.41:076][ 44]BlueprintLog: New page: Compile Elevator
+[2023.10.04-18.24.41:121][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.10.04-18.24.42:406][177]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-18.24.42:584][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Elevator" FILE="../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Content/Elevator.uasset" SILENT=true
+[2023.10.04-18.24.42:606][177]LogSavePackage: Moving output files for package: /Game/Elevator
+[2023.10.04-18.24.42:607][177]LogSavePackage: Moving '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/ElevatorCBFC906F43B4D08D5DEDBAAE33F69246.tmp' to '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Content/Elevator.uasset'
+[2023.10.04-18.24.42:617][177]LogFileHelpers: InternalPromptForCheckoutAndSave took 211 ms (total: 2.21 sec)
+[2023.10.04-18.24.42:619][177]AssetCheck: New page: Asset Save: Elevator
+[2023.10.04-18.24.42:619][177]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Elevator.Elevator
+[2023.10.04-18.24.55:389][565]BlueprintLog: New page: Compile Elevator
+[2023.10.04-18.24.55:433][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.10.04-18.24.56:042][616]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-18.24.56:230][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Elevator" FILE="../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Content/Elevator.uasset" SILENT=true
+[2023.10.04-18.24.56:244][616]LogSavePackage: Moving output files for package: /Game/Elevator
+[2023.10.04-18.24.56:245][616]LogSavePackage: Moving '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/ElevatorA437CE384A9B2E13402436A4C871FDDE.tmp' to '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Content/Elevator.uasset'
+[2023.10.04-18.24.56:255][616]LogFileHelpers: InternalPromptForCheckoutAndSave took 212 ms (total: 2.42 sec)
+[2023.10.04-18.24.56:257][616]AssetCheck: New page: Asset Save: Elevator
+[2023.10.04-18.24.56:257][616]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Elevator.Elevator
+[2023.10.04-18.24.59:538][779]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Elevator.Elevator_C
+[2023.10.04-18.24.59:538][779]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Elevator.Elevator_C
+[2023.10.04-18.24.59:541][779]LogActorFactory: Actor Factory spawned Blueprint /Game/Elevator.Elevator as actor: Elevator_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Elevator_C_0
+[2023.10.04-18.24.59:543][779]LogActorFactory: Actor Factory spawned Blueprint /Game/Elevator.Elevator as actor: Elevator_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Elevator_C_0
+[2023.10.04-18.24.59:800][786]LogDerivedDataCache: C:/Users/tgvm1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.065 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 752 files in 1281 folders with total size 17 MiB.
+[2023.10.04-18.25.01:774][881]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Elevator.Elevator_C
+[2023.10.04-18.25.01:775][881]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Elevator.Elevator_C
+[2023.10.04-18.25.01:780][881]LogActorFactory: Actor Factory spawned Blueprint /Game/Elevator.Elevator as actor: Elevator_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Elevator_C_UAID_FC34977ACF6873AF01_1517314203
+[2023.10.04-18.25.01:783][881]LogActorFactory: Actor Factory spawned Blueprint /Game/Elevator.Elevator as actor: Elevator_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Elevator_C_UAID_FC34977ACF6873AF01_1517314203
+[2023.10.04-18.25.18:431][688]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.04-18.25.18:441][688]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.04-18.25.18:441][688]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.10.04-18.25.18:449][688]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 7 ms (total: 57 ms)
+[2023.10.04-18.25.18:458][688]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.04-18.25.18:458][688]PIE: New page: PIE session: FirstPersonMap (4 de out de 2023 12:25:18)
+[2023.10.04-18.25.18:495][688]LogPlayLevel: Display: Creating online subsystem for client :Context_20
+[2023.10.04-18.25.18:498][688]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2023.10.04-18.25.18:521][689]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.04-18.25.18:535][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013975s)
+[2023.10.04-18.25.18:535][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.014035s)
+[2023.10.04-18.25.18:560][689]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.10.04-18.25.18:566][689]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-18.25.18:566][689]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.04-18.25.18:567][689]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.10.04-18.25.18:567][689]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.04-18.25.18:567][689]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.04-18.25.18:568][689]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.04-18.25.18:568][689]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.10.04-18.25.18:571][689]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.10.04-18.25.18:572][689]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 1.29 sec)
+[2023.10.04-18.25.18:572][689]LogPlayLevel: PIE: World Init took: (0.005773s)
+[2023.10.04-18.25.18:572][689]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.10.04-18.25.18:572][689]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.04-18.25.18:572][689]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.04-18.25.18:572][689]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.04-18.25.18:572][689]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.04-18.25.18:572][689]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.04-18.25.18:572][689]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.04-18.25.18:572][689]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.04-18.25.18:572][689]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.04-18.25.18:572][689]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.04-18.25.18:572][689]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.04-18.25.18:572][689]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.04-18.25.18:575][689]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.04-18.25.18:607][689]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2023.10.04-18.25.18:607][689]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.04-18.25.18:607][689]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.04-18.25.18:607][689]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.04-18.25.18:608][689]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.10.04-18.25.18:608][689]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.10.04-18.25.18:611][689]LogInit: FAudioDevice initialized with ID 10.
+[2023.10.04-18.25.18:611][689]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.10.04-18.25.18:611][689]LogAudio: Display: Audio Device (ID: 10) registered with world 'FirstPersonMap'.
+[2023.10.04-18.25.18:611][689]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.10.04-18.25.18:611][689]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2023.10.04-18.25.18:614][689]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.10.04-18.25.18:624][689]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.10.04-15.25.18
+[2023.10.04-18.25.18:624][689]LogWorld: Bringing up level for play took: 0.009419
+[2023.10.04-18.25.18:629][689]PIE: Server logged in
+[2023.10.04-18.25.18:630][689]PIE: Play in editor total start time 0,189 seconds.
+[2023.10.04-18.25.35:055][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.04-18.25.35:055][333]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.04-18.25.35:056][333]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.04-18.25.35:057][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.04-18.25.35:057][333]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.10.04-18.25.35:073][333]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.04-18.25.35:080][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.04-18.25.35:103][333]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.04-18.25.35:103][333]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2023.10.04-18.25.35:104][333]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.10.04-18.25.35:106][333]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.10.04-18.25.35:112][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.04-18.25.35:117][333]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.10.04-18.25.35:242][334]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.10.04-18.25.50:459][759]BlueprintLog: New page: Compile Elevator
+[2023.10.04-18.25.50:514][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.10.04-18.25.51:438][818]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-18.25.51:607][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Elevator" FILE="../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Content/Elevator.uasset" SILENT=true
+[2023.10.04-18.25.51:620][818]LogSavePackage: Moving output files for package: /Game/Elevator
+[2023.10.04-18.25.51:621][818]LogSavePackage: Moving '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/Elevator8FB94DB449325A2EFD21D5B568B106BC.tmp' to '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Content/Elevator.uasset'
+[2023.10.04-18.25.51:632][818]LogFileHelpers: InternalPromptForCheckoutAndSave took 193 ms (total: 2.62 sec)
+[2023.10.04-18.25.51:633][818]AssetCheck: New page: Asset Save: Elevator
+[2023.10.04-18.25.51:633][818]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Elevator.Elevator
+[2023.10.04-18.26.05:028][386]BlueprintLog: New page: Compile Elevator
+[2023.10.04-18.26.05:082][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.10.04-18.26.05:715][448]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-18.26.05:860][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Elevator" FILE="../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Content/Elevator.uasset" SILENT=true
+[2023.10.04-18.26.05:874][448]LogSavePackage: Moving output files for package: /Game/Elevator
+[2023.10.04-18.26.05:875][448]LogSavePackage: Moving '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/Elevator265A5FAB48D35D457762368EACBE408D.tmp' to '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Content/Elevator.uasset'
+[2023.10.04-18.26.05:886][448]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 2.79 sec)
+[2023.10.04-18.26.05:887][448]AssetCheck: New page: Asset Save: Elevator
+[2023.10.04-18.26.05:887][448]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Elevator.Elevator
+[2023.10.04-18.26.07:816][554]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.04-18.26.07:825][554]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.04-18.26.07:825][554]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.10.04-18.26.07:831][554]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 6 ms (total: 64 ms)
+[2023.10.04-18.26.07:831][554]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.04-18.26.07:831][554]PIE: New page: PIE session: FirstPersonMap (4 de out de 2023 12:26:07)
+[2023.10.04-18.26.07:832][554]LogPlayLevel: Display: Creating online subsystem for client :Context_21
+[2023.10.04-18.26.07:834][554]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.10.04-18.26.07:862][555]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.04-18.26.07:876][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014135s)
+[2023.10.04-18.26.07:876][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.014191s)
+[2023.10.04-18.26.07:897][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.10.04-18.26.07:903][555]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-18.26.07:903][555]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.04-18.26.07:904][555]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.10.04-18.26.07:905][555]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.04-18.26.07:905][555]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.04-18.26.07:905][555]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.04-18.26.07:905][555]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.10.04-18.26.07:909][555]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.10.04-18.26.07:909][555]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 1.30 sec)
+[2023.10.04-18.26.07:909][555]LogPlayLevel: PIE: World Init took: (0.005891s)
+[2023.10.04-18.26.07:909][555]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.10.04-18.26.07:909][555]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.04-18.26.07:909][555]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.04-18.26.07:909][555]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.04-18.26.07:909][555]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.04-18.26.07:909][555]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.04-18.26.07:909][555]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.04-18.26.07:909][555]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.04-18.26.07:909][555]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.04-18.26.07:910][555]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.04-18.26.07:910][555]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.04-18.26.07:910][555]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.04-18.26.07:912][555]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.04-18.26.07:944][555]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2023.10.04-18.26.07:944][555]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.04-18.26.07:944][555]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.04-18.26.07:944][555]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.04-18.26.07:945][555]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.10.04-18.26.07:945][555]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.10.04-18.26.07:949][555]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.10.04-18.26.07:949][555]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.10.04-18.26.07:949][555]LogInit: FAudioDevice initialized with ID 11.
+[2023.10.04-18.26.07:949][555]LogAudio: Display: Audio Device (ID: 11) registered with world 'FirstPersonMap'.
+[2023.10.04-18.26.07:949][555]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2023.10.04-18.26.07:952][555]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.10.04-18.26.07:961][555]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.10.04-15.26.07
+[2023.10.04-18.26.07:961][555]LogWorld: Bringing up level for play took: 0.009019
+[2023.10.04-18.26.07:966][555]PIE: Server logged in
+[2023.10.04-18.26.07:967][555]PIE: Play in editor total start time 0,142 seconds.
+[2023.10.04-18.27.11:245][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.04-18.27.11:246][639]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.04-18.27.11:246][639]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.04-18.27.11:247][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.04-18.27.11:248][639]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.10.04-18.27.11:259][639]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.04-18.27.11:265][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.04-18.27.11:286][639]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.04-18.27.11:286][639]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2023.10.04-18.27.11:286][639]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.10.04-18.27.11:288][639]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.10.04-18.27.11:295][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.04-18.27.11:300][639]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.10.04-18.27.11:417][640]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.10.04-18.27.26:440][561]LogContentBrowser: Deferred new asset file creation: Switch1
+[2023.10.04-18.27.26:460][561]LogContentBrowser: Creating deferred item: Switch1
+[2023.10.04-18.27.26:476][562]LogContentBrowser: Renaming the item being created (Deferred Item: Switch1).
+[2023.10.04-18.27.31:358][815]LogContentBrowser: Attempting asset rename: Switch1 -> ElevatorSwitch
+[2023.10.04-18.27.31:393][815]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.10.04-18.27.31:412][815]LogContentBrowser: End creating deferred item Switch1
+[2023.10.04-18.27.31:413][815]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-18.27.33:033][883]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ElevatorSwitch.ElevatorSwitch
+[2023.10.04-18.27.33:034][883]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-18.27.33:034][883]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.04-18.27.36:470][151]LogViewport: Scene viewport resized to 1141x691, mode Windowed.
+[2023.10.04-18.30.18:001][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.10.04-18.30.18:008][847]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/A9/LK2FEA04POHVLAPC9XQSRE_Auto8
+[2023.10.04-18.30.18:008][847]LogSavePackage: Moving '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/LK2FEA04POHVLAPC9XQSRE_Auto859367A314544205E2A5BC0A0C27A237F.tmp' to '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/A9/LK2FEA04POHVLAPC9XQSRE_Auto8.uasset'
+[2023.10.04-18.30.18:009][847]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.034
+[2023.10.04-18.30.18:009][847]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2023.10.04-18.30.18:010][847]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ElevatorSwitch] ([2] browsable assets)...
+[2023.10.04-18.30.18:125][847]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ElevatorSwitch.ElevatorSwitch]
+[2023.10.04-18.30.18:125][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/ElevatorSwitch]
+[2023.10.04-18.30.18:135][847]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ElevatorSwitch_Auto8
+[2023.10.04-18.30.18:135][847]LogSavePackage: Moving '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/ElevatorSwitch_Auto8FD398B89464BB304D3A8F08AD84A23E4.tmp' to '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/Autosaves/Game/ElevatorSwitch_Auto8.uasset'
+[2023.10.04-18.30.18:137][847]LogFileHelpers: Auto-saving content packages took 0.127
+[2023.10.04-18.31.05:310][434]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2023.10.04-18.31.05:311][434]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-18.31.05:311][434]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.04-18.31.10:907][ 63]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.10.04-18.31.10:907][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.04-18.35.15:543][940]LogEditorTransaction: Undo Delete current selection
+[2023.10.04-18.36.51:772][188]BlueprintLog: New page: Compile ElevatorSwitch
+[2023.10.04-18.36.51:830][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.10.04-18.36.52:642][271]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-18.36.52:776][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ElevatorSwitch" FILE="../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Content/ElevatorSwitch.uasset" SILENT=true
+[2023.10.04-18.36.52:790][271]LogSavePackage: Moving output files for package: /Game/ElevatorSwitch
+[2023.10.04-18.36.52:790][271]LogSavePackage: Moving '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/ElevatorSwitch1D6D926B4A01557A47DD17A4B2229030.tmp' to '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Content/ElevatorSwitch.uasset'
+[2023.10.04-18.36.52:804][271]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 2.95 sec)
+[2023.10.04-18.36.52:805][271]AssetCheck: New page: Asset Save: ElevatorSwitch
+[2023.10.04-18.36.52:805][271]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ElevatorSwitch.ElevatorSwitch
+[2023.10.04-18.37.02:004][714]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ElevatorSwitch.ElevatorSwitch_C
+[2023.10.04-18.37.02:004][714]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ElevatorSwitch.ElevatorSwitch_C
+[2023.10.04-18.37.02:007][714]LogActorFactory: Actor Factory spawned Blueprint /Game/ElevatorSwitch.ElevatorSwitch as actor: ElevatorSwitch_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ElevatorSwitch_C_0
+[2023.10.04-18.37.02:011][714]LogActorFactory: Actor Factory spawned Blueprint /Game/ElevatorSwitch.ElevatorSwitch as actor: ElevatorSwitch_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ElevatorSwitch_C_0
+[2023.10.04-18.37.03:337][763]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ElevatorSwitch.ElevatorSwitch_C
+[2023.10.04-18.37.03:337][763]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ElevatorSwitch.ElevatorSwitch_C
+[2023.10.04-18.37.03:341][763]LogActorFactory: Actor Factory spawned Blueprint /Game/ElevatorSwitch.ElevatorSwitch as actor: ElevatorSwitch_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ElevatorSwitch_C_UAID_FC34977ACF6874AF01_1165134380
+[2023.10.04-18.37.03:345][763]LogActorFactory: Actor Factory spawned Blueprint /Game/ElevatorSwitch.ElevatorSwitch as actor: ElevatorSwitch_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ElevatorSwitch_C_UAID_FC34977ACF6874AF01_1165134380
+[2023.10.04-18.40.25:127][161]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.10.04-18.40.25:132][161]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/24/DO2WL827SUWA8UYTLRLMJA_Auto9
+[2023.10.04-18.40.25:132][161]LogSavePackage: Moving '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/DO2WL827SUWA8UYTLRLMJA_Auto970E5C34D4C58D0A3D4E4ED9B96C8AFA6.tmp' to '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/24/DO2WL827SUWA8UYTLRLMJA_Auto9.uasset'
+[2023.10.04-18.40.25:136][161]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/SZ/D1AHM62WL9TXSNPYQDXQMZ_Auto9
+[2023.10.04-18.40.25:136][161]LogSavePackage: Moving '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/D1AHM62WL9TXSNPYQDXQMZ_Auto9BCC741B34101C5637EB44A827902293E.tmp' to '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/SZ/D1AHM62WL9TXSNPYQDXQMZ_Auto9.uasset'
+[2023.10.04-18.40.25:141][161]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/EI/V7E022R2TAJYTCT5NUEHWK_Auto9
+[2023.10.04-18.40.25:141][161]LogSavePackage: Moving '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/V7E022R2TAJYTCT5NUEHWK_Auto9B2519C8C4A5116F9EB15E1906CFD66BA.tmp' to '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/EI/V7E022R2TAJYTCT5NUEHWK_Auto9.uasset'
+[2023.10.04-18.40.25:146][161]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/QP/1P5FVF17XEE9PQWMIHPAFX_Auto9
+[2023.10.04-18.40.25:146][161]LogSavePackage: Moving '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/1P5FVF17XEE9PQWMIHPAFX_Auto90BC29E7E4718C60ADF7FB885DE13D76B.tmp' to '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/QP/1P5FVF17XEE9PQWMIHPAFX_Auto9.uasset'
+[2023.10.04-18.40.25:151][161]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/Q1/9BN5L209KN147DY4ADTHT5_Auto9
+[2023.10.04-18.40.25:151][161]LogSavePackage: Moving '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/9BN5L209KN147DY4ADTHT5_Auto94B8B1E2F4917C9B305FDDF87249374DE.tmp' to '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/Q1/9BN5L209KN147DY4ADTHT5_Auto9.uasset'
+[2023.10.04-18.40.25:157][161]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/5J/K0PZLL6Z04BQPS04GRSCVQ_Auto9
+[2023.10.04-18.40.25:157][161]LogSavePackage: Moving '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/K0PZLL6Z04BQPS04GRSCVQ_Auto92B139A9D49471DD75108239AECBDFBEF.tmp' to '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/5J/K0PZLL6Z04BQPS04GRSCVQ_Auto9.uasset'
+[2023.10.04-18.40.25:161][161]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/A9/LK2FEA04POHVLAPC9XQSRE_Auto9
+[2023.10.04-18.40.25:162][161]LogSavePackage: Moving '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/LK2FEA04POHVLAPC9XQSRE_Auto954DEC8F343C09E5CD3F348948A7BC97F.tmp' to '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/A9/LK2FEA04POHVLAPC9XQSRE_Auto9.uasset'
+[2023.10.04-18.40.25:167][161]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/S3/F0KELQHMP9Q245UB3J1QBB_Auto9
+[2023.10.04-18.40.25:167][161]LogSavePackage: Moving '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/F0KELQHMP9Q245UB3J1QBB_Auto99AB4051C44045CDE7B61098E71D40551.tmp' to '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/S3/F0KELQHMP9Q245UB3J1QBB_Auto9.uasset'
+[2023.10.04-18.40.25:169][161]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.069
+[2023.10.04-18.40.25:169][161]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.069
+[2023.10.04-18.40.25:169][161]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ElevatorSwitch] ([2] browsable assets)...
+[2023.10.04-18.40.25:272][161]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ElevatorSwitch.ElevatorSwitch]
+[2023.10.04-18.40.25:272][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/ElevatorSwitch]
+[2023.10.04-18.40.25:286][161]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ElevatorSwitch_Auto9
+[2023.10.04-18.40.25:286][161]LogSavePackage: Moving '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/ElevatorSwitch_Auto92B5E1D8B43D99567A71E819E737F8B6C.tmp' to '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/Autosaves/Game/ElevatorSwitch_Auto9.uasset'
+[2023.10.04-18.40.25:287][161]LogFileHelpers: Auto-saving content packages took 0.118
+[2023.10.04-18.42.32:351][902]BlueprintLog: New page: Compile ElevatorSwitch
+[2023.10.04-18.42.32:415][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.10.04-18.42.33:432][992]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-18.42.33:608][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ElevatorSwitch" FILE="../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Content/ElevatorSwitch.uasset" SILENT=true
+[2023.10.04-18.42.33:622][992]LogSavePackage: Moving output files for package: /Game/ElevatorSwitch
+[2023.10.04-18.42.33:623][992]LogSavePackage: Moving '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/ElevatorSwitch88B3CD18429848A65B693BB5E1EECF14.tmp' to '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Content/ElevatorSwitch.uasset'
+[2023.10.04-18.42.33:634][992]LogFileHelpers: InternalPromptForCheckoutAndSave took 200 ms (total: 3.15 sec)
+[2023.10.04-18.42.33:636][992]AssetCheck: New page: Asset Save: ElevatorSwitch
+[2023.10.04-18.42.33:636][992]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ElevatorSwitch.ElevatorSwitch
+[2023.10.04-18.42.38:242][205]Cmd: DUPLICATE
+[2023.10.04-18.42.38:242][205]Cmd: ACTOR DUPLICATE
+[2023.10.04-18.42.38:288][205]LogClass: Warning: Short type name "Elevator_C_UAID_FC34977ACF6873AF01_1517314203" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.10.04-18.42.38:302][205]LogClass: Warning: Short type name "Elevator_C_UAID_FC34977ACF6873AF01_1517314203" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.10.04-18.42.38:318][205]LogClass: Warning: Short type name "Elevator_C_UAID_FC34977ACF6873AF01_1517314203" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.10.04-18.42.38:333][205]LogClass: Warning: Short type name "Elevator_C_UAID_FC34977ACF6873AF01_1517314203" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.10.04-18.42.44:463][493]Cmd: DUPLICATE
+[2023.10.04-18.42.44:463][493]Cmd: ACTOR DUPLICATE
+[2023.10.04-18.42.44:510][493]LogClass: Warning: Short type name "Elevator_C_UAID_FC34977ACF6874AF01_1500040381" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.10.04-18.42.44:525][493]LogClass: Warning: Short type name "Elevator_C_UAID_FC34977ACF6874AF01_1500040381" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.10.04-18.42.44:540][493]LogClass: Warning: Short type name "Elevator_C_UAID_FC34977ACF6874AF01_1500040381" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.10.04-18.42.44:555][493]LogClass: Warning: Short type name "Elevator_C_UAID_FC34977ACF6874AF01_1500040381" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.10.04-18.42.58:635][161]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.04-18.42.58:644][161]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.04-18.42.58:644][161]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.10.04-18.42.58:651][161]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 7 ms (total: 71 ms)
+[2023.10.04-18.42.58:651][161]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.04-18.42.58:651][161]PIE: New page: PIE session: FirstPersonMap (4 de out de 2023 12:42:58)
+[2023.10.04-18.42.58:652][161]LogPlayLevel: Display: Creating online subsystem for client :Context_25
+[2023.10.04-18.42.58:655][161]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.10.04-18.42.58:678][162]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.04-18.42.58:693][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015505s)
+[2023.10.04-18.42.58:693][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.015561s)
+[2023.10.04-18.42.58:718][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.10.04-18.42.58:724][162]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-18.42.58:725][162]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.04-18.42.58:725][162]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.10.04-18.42.58:726][162]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.04-18.42.58:726][162]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.04-18.42.58:726][162]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.04-18.42.58:726][162]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.10.04-18.42.58:730][162]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.10.04-18.42.58:730][162]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 1.30 sec)
+[2023.10.04-18.42.58:730][162]LogPlayLevel: PIE: World Init took: (0.006054s)
+[2023.10.04-18.42.58:730][162]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.10.04-18.42.58:730][162]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.04-18.42.58:730][162]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.04-18.42.58:730][162]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.04-18.42.58:730][162]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.04-18.42.58:731][162]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.04-18.42.58:731][162]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.04-18.42.58:731][162]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.04-18.42.58:731][162]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.04-18.42.58:731][162]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.04-18.42.58:731][162]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.04-18.42.58:731][162]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.04-18.42.58:734][162]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.04-18.42.58:764][162]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2023.10.04-18.42.58:765][162]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.04-18.42.58:765][162]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.04-18.42.58:765][162]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.04-18.42.58:766][162]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.10.04-18.42.58:766][162]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.10.04-18.42.58:769][162]LogInit: FAudioDevice initialized with ID 12.
+[2023.10.04-18.42.58:769][162]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.10.04-18.42.58:769][162]LogAudio: Display: Audio Device (ID: 12) registered with world 'FirstPersonMap'.
+[2023.10.04-18.42.58:769][162]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.10.04-18.42.58:769][162]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2023.10.04-18.42.58:772][162]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.10.04-18.42.58:782][162]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.10.04-15.42.58
+[2023.10.04-18.42.58:783][162]LogWorld: Bringing up level for play took: 0.009982
+[2023.10.04-18.42.58:787][162]PIE: Server logged in
+[2023.10.04-18.42.58:788][162]PIE: Play in editor total start time 0,144 seconds.
+[2023.10.04-18.43.11:077][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.04-18.43.11:077][692]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.04-18.43.11:077][692]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.04-18.43.11:079][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.04-18.43.11:079][692]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.10.04-18.43.11:097][692]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.04-18.43.11:105][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.04-18.43.11:128][692]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.04-18.43.11:129][692]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2023.10.04-18.43.11:129][692]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.10.04-18.43.11:131][692]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.10.04-18.43.11:138][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.04-18.43.11:143][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.10.04-18.43.11:299][693]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.10.04-18.43.38:866][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-18.43.39:003][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Elevator" FILE="../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Content/Elevator.uasset" SILENT=true
+[2023.10.04-18.43.39:016][332]LogSavePackage: Moving output files for package: /Game/Elevator
+[2023.10.04-18.43.39:017][332]LogSavePackage: Moving '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/Elevator89B1155046434686FD79448971839F52.tmp' to '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Content/Elevator.uasset'
+[2023.10.04-18.43.39:030][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 163 ms (total: 3.31 sec)
+[2023.10.04-18.43.39:031][332]AssetCheck: New page: Asset Save: Elevator
+[2023.10.04-18.43.39:031][332]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Elevator.Elevator
+[2023.10.04-18.44.53:768][610]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-18.44.53:902][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Elevator" FILE="../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Content/Elevator.uasset" SILENT=true
+[2023.10.04-18.44.53:916][610]LogSavePackage: Moving output files for package: /Game/Elevator
+[2023.10.04-18.44.53:917][610]LogSavePackage: Moving '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/ElevatorA3E7BC2D4EB64D94820DD7A7FE827035.tmp' to '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Content/Elevator.uasset'
+[2023.10.04-18.44.53:928][610]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 3.47 sec)
+[2023.10.04-18.44.53:930][610]AssetCheck: New page: Asset Save: Elevator
+[2023.10.04-18.44.53:930][610]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Elevator.Elevator
+[2023.10.04-18.44.54:671][696]BlueprintLog: New page: Compile Elevator
+[2023.10.04-18.44.54:755][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.10.04-18.44.55:455][736]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-18.44.55:591][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Elevator" FILE="../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Content/Elevator.uasset" SILENT=true
+[2023.10.04-18.44.55:605][736]LogSavePackage: Moving output files for package: /Game/Elevator
+[2023.10.04-18.44.55:607][736]LogSavePackage: Moving '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Saved/Elevator139E944E41F10C413F580C959BF218B6.tmp' to '../../../../../../Users/tgvm1/OneDrive/Documentos/Unreal Projects/justLooking/Content/Elevator.uasset'
+[2023.10.04-18.44.55:617][736]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 3.63 sec)
+[2023.10.04-18.44.55:620][736]AssetCheck: New page: Asset Save: Elevator
+[2023.10.04-18.44.55:620][736]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Elevator.Elevator
+[2023.10.04-18.44.57:638][850]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.04-18.44.57:648][850]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.04-18.44.57:648][850]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.10.04-18.44.57:656][850]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 7 ms (total: 79 ms)
+[2023.10.04-18.44.57:656][850]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.04-18.44.57:656][850]PIE: New page: PIE session: FirstPersonMap (4 de out de 2023 12:44:57)
+[2023.10.04-18.44.57:656][850]LogPlayLevel: Display: Creating online subsystem for client :Context_26
+[2023.10.04-18.44.57:660][850]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.10.04-18.44.57:684][851]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.04-18.44.57:700][851]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015404s)
+[2023.10.04-18.44.57:700][851]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.015463s)
+[2023.10.04-18.44.57:722][851]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.10.04-18.44.57:726][851]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-18.44.57:726][851]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.04-18.44.57:727][851]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.10.04-18.44.57:728][851]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.04-18.44.57:728][851]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.04-18.44.57:728][851]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.04-18.44.57:728][851]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.10.04-18.44.57:732][851]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.10.04-18.44.57:732][851]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 1.30 sec)
+[2023.10.04-18.44.57:732][851]LogPlayLevel: PIE: World Init took: (0.006082s)
+[2023.10.04-18.44.57:732][851]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.10.04-18.44.57:732][851]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.04-18.44.57:732][851]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.04-18.44.57:732][851]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.04-18.44.57:732][851]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.04-18.44.57:732][851]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.04-18.44.57:732][851]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.04-18.44.57:732][851]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.04-18.44.57:732][851]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.04-18.44.57:733][851]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.04-18.44.57:733][851]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.04-18.44.57:733][851]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.04-18.44.57:736][851]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.04-18.44.57:768][851]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2023.10.04-18.44.57:768][851]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.04-18.44.57:768][851]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.04-18.44.57:768][851]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.04-18.44.57:769][851]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.10.04-18.44.57:769][851]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.10.04-18.44.57:772][851]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.10.04-18.44.57:772][851]LogInit: FAudioDevice initialized with ID 13.
+[2023.10.04-18.44.57:772][851]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.10.04-18.44.57:772][851]LogAudio: Display: Audio Device (ID: 13) registered with world 'FirstPersonMap'.
+[2023.10.04-18.44.57:772][851]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2023.10.04-18.44.57:776][851]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.10.04-18.44.57:785][851]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.10.04-15.44.57
+[2023.10.04-18.44.57:786][851]LogWorld: Bringing up level for play took: 0.009397
+[2023.10.04-18.44.57:790][851]PIE: Server logged in
+[2023.10.04-18.44.57:791][851]PIE: Play in editor total start time 0,144 seconds.
+[2023.10.04-18.45.54:837][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.04-18.45.54:837][665]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.04-18.45.54:837][665]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.04-18.45.54:838][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.04-18.45.54:838][665]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.10.04-18.45.54:858][665]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.04-18.45.54:865][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.04-18.45.54:885][665]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.04-18.45.54:886][665]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2023.10.04-18.45.54:886][665]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.10.04-18.45.54:888][665]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.10.04-18.45.54:895][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.04-18.45.54:899][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.10.04-18.45.55:086][666]LogPlayLevel: Display: Destroying online subsystem :Context_26
